@@ -5,7 +5,7 @@ author: "Napassorn"
 categories: resources
 tags: [resources]
 image:
-  feature: city-4.jpg
+  feature: blokus.jpg
 ---
 
 # [Blokus-Tiles](https://github.com/napassornl/Blokus-Tiles)
@@ -16,7 +16,7 @@ The program should expect three command line arguments:
 • the input file name  
 • the output file name  
 
-# The Blokus Game
+## The Blokus Game
 Blokus tiles are free polyonimoes. Here is an excerpt from wikipedia:  
 
 A polyomino is a plane geometric figure formed by joining one or more equal squares edge to edge. It is a polyform whose cells are squares.  
@@ -50,8 +50,8 @@ Note: Tiles can be picked up and flipped over. The cells must be connected side-
 not on a corner. Think of them as rigid, flat pieces of colored plastic (since that
 is actually what they represent in the game).
 
-# Details
-## Input Format
+## Details
+### Input Format
  • if any character other than . or * is encountered in a tileset, exit the
 program immediately, with no output, and with a return code of 1.  
 • there must be exactly one empty line after each tile. If this condition is
@@ -60,7 +60,7 @@ code of 2.
 • if any textbox is encountered with an incorrect overall size (not NxN), exit
 the program immediately, with no output, and with a return code of 2.  
 
-## Output Format
+### Output Format
 If no errors occur, the program should output the same tiles as contained in the
 input tileset, and exit with a return code of 0.  
 In addition:  
@@ -84,3 +84,4 @@ These represent the same piece (the domino) and the output file should have:
 ....  
 ....  
 
+[Photo Credits](https://kiefferbros.com/blog/cooperative-blokus/)
