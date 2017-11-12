@@ -1,6 +1,8 @@
 ---
 layout: misc
 title: About Me
+image:
+  feature: cuba-2.jpg
 ---
 
 I was born in [Nonthaburi, Thailand](https://en.wikipedia.org/wiki/Nonthaburi_Province). When I was almost 3 years old, I journey on a trip half way around the world to the United States, so that I can support my dad in pursuing a doctoral degree in Computer Engineering at the University of Miami. Me, mom, and dad lived in Miami, Florida for almost 8 years and I went to school at Pinecrest Elementary School. When my dad received his Ph.D, we came back to Thailand and went to Kasetsart University Laboratory School. By the time I graduated from high school, I got accepted to Boston University, College of Engineering. I came back to the US the second time. I initially pursued Biomedical Engineering, but through computer programming classes, I discovered that coding was way more fun! I started coding much later and took on my second major, Computer Engineering, half way through my junior year. I might be not as experienced in coding, but I have so much passion and enthusiasm for learning new technologies that I wil never give up on becoming a greater coder. I knew learning to code from college courses was not enough so I learned most languages on my own and made some neat projects! Check out my [Github](https://github.com/napassornl).
