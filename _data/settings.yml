@@ -19,9 +19,10 @@ menu:
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/napassornlerds'}
-- {icon: 'facebook', link: 'https://www.facebook.com/NapassornLerdsudwichai'}
+- {icon: 'github', link: 'https://github.com/napassornl'}
 - {icon: 'instagram', link: 'https://instagram.com/napassor.n'}
+- {icon: 'twitter', link: 'https://twitter.com/napassornlerds'}
+- {icon: 'facebook', link: 'https://www.facebook.com/napassorn1995'}
 - {icon: 'envelope', link: 'mailto:napalerd@bu.edu'}
 - {icon: 'rss-square', link: 'feed.xml'}
 
