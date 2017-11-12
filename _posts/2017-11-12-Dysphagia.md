@@ -2,7 +2,7 @@
 layout: post
 title: "Imagine Dying from Dysphagia"
 author: "Napassorn"
-categories: sample, resources
+categories: sample
 tags: [resources]
 image:
   feature: head-and-neck-x-ray.jpg
