@@ -8,7 +8,7 @@ image:
   feature: city-4.jpg
 ---
 
-[# Blokus-Tiles](https://github.com/napassornl/Blokus-Tiles)
+# [Blokus-Tiles](https://github.com/napassornl/Blokus-Tiles)
 A class assignment of C++ program that reads information about game tiles (tiles) for game Blokus and outputs similar file with only unique tiles contained in input file.
 
 The program should expect three command line arguments:  
