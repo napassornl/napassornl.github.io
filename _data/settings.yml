@@ -13,8 +13,8 @@ disqus:
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
 - {name: 'Projects', folder: 'pages', file: 'resources.html'}
-- {name: 'Posts', folder: 'pages', file: 'posts.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Blog Posts', folder: 'pages', file: 'posts.html'}
+- {name: 'About Me', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 social:
