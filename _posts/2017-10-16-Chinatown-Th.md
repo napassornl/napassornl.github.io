@@ -9,3 +9,5 @@ image:
 ---
 
 Multiple pictures
+
+[Photo Credits](http://www.ghcoptions.com/chinatown-bangkok/)
