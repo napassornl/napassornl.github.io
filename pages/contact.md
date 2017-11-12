@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Contact
+title: Reaching Out
 ---
 
 If you love coding just as much as I do or just want to talk about Thailand, feel free to connect with me!  
