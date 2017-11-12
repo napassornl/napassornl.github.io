@@ -5,7 +5,9 @@ author: "Napassorn"
 categories: resources
 tags: [resources]
 image:
-  feature: cuba-1.jpg
+  feature: flexible-endoscope.jpg
 ---
 
 LARNX
+
+[Photo Credits](https://www.voicedoctor.net/diagnosis/voice/anatomy)
