@@ -2,7 +2,7 @@
 layout: post
 title: "Some of my current interests and hobbies"
 author: "Napassorn Lerdsudwichai"
-categories: sample,facts
+categories: facts
 tags: [sample]
 image:
   feature: cuba-1.jpg
