@@ -9,3 +9,5 @@ image:
 ---
 
 Biomedical engineer turned pre-med turned R&D engineer turned Computer and Biomedical engineer (double major). 
+
+[Photo Credits](http://www.bldup.com/projects/joan-edgar-booth-theatre)
