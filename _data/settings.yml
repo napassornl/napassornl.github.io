@@ -1,6 +1,7 @@
-title:  "Millennial"
-tagline: "a Jekyll theme"
-description:
+title:  "Napassorn Lerdsudwichai"
+tagline: "Hello"
+description: "I was born in Thailand. I am currently a senior double majoring in Computer Engineering 
+and Biomedical Engineering at Boston University. I will be graduating in May 2018."
 
 # Authors documented under _data
 
@@ -11,17 +12,17 @@ disqus:
 
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Projects', folder: 'pages', file: 'resources.html'}
+- {name: 'Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'twitter', link: 'https://twitter.com/napassornlerds'}
+- {icon: 'facebook', link: 'https://www.facebook.com/NapassornLerdsudwichai'}
+- {icon: 'instagram', link: 'https://instagram.com/napassor.n'}
+- {icon: 'envelope', link: 'mailto:napalerd@bu.edu'}
 - {icon: 'rss-square', link: 'feed.xml'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
