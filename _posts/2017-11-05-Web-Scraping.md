@@ -8,7 +8,7 @@ image:
   feature: city-4.jpg
 ---
 
-# [Web-Scraping].(https://github.com/napassornl/Web-Scraping)
+# [Website Scraping](https://github.com/napassornl/Web-Scraping)
 Python program that goes through HTML to extract data from websites.
 
 ## Web Scraping means...
