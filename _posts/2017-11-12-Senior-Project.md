@@ -6,7 +6,7 @@ categories: resources
 tags: [resources]
 image:
   feature: flexible-endoscope.jpg
-  creditlink:https://www.voicedoctor.net/diagnosis/voice/anatomy
+  creditlink: https://www.voicedoctor.net/diagnosis/voice/anatomy
 ---
 
 # [Software Application for 3D Endoscope](https://github.com/Larnx)
