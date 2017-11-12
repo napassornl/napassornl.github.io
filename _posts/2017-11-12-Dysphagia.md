@@ -5,7 +5,7 @@ author: "Napassorn"
 categories: sample, resources
 tags: [resources]
 image:
-  feature: head-neck-x-ray.jpg
+  feature: head-and-neck-x-ray.jpg
   creditlink: https://www.medicalnewstoday.com/articles/177473.php
 ---
 
