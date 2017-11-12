@@ -6,7 +6,7 @@ categories: sample, resources
 tags: [resources]
 image:
   feature: head-and-neck-x-ray.jpg
-  creditlink: "https://www.medicalnewstoday.com/articles/177473.php"
+  creditlink: https://www.medicalnewstoday.com/articles/177473.php
 ---
 
 Ever had trouble swallowing? Probably not. This conditions only affects 1 out of 17 people. But as you older, the chances become higher. 
