@@ -6,7 +6,6 @@ categories: facts
 tags: [sample]
 image:
   feature: bokeh.jpg
-  creditlink: http://www.neoisgreat.com/culture.htm
 ---
 
 1. **Music**:  
@@ -22,3 +21,5 @@ Lastly, it might not seem obivious, but I really love movies. I love talking abo
 I am no expert in photography, but I try to be as artistic as I can when capturing an image. It is most fun when you are exploring the world with friends and capturing those memorable moments. Check out my [instagram](https://www.instagram.com/napassor.n/)!
 4. **Yoga**:
 When I have time, my go to workout is Yoga because I am not a fan of high impact workouts (mostly, because I am lazy).
+
+[Photo Credits](http://www.neoisgreat.com/culture.htm)
