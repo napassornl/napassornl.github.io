@@ -8,6 +8,4 @@ image:
   feature: chinatown-bangkok.jpg
 ---
 
-Multiple pictures
-
 [Photo Credits](http://www.ghcoptions.com/chinatown-bangkok/)
