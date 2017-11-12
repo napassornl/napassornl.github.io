@@ -2,8 +2,7 @@
 
 ## Directory Structure
 Homepage  
-  About Me  
-  Projects in Github  
-  Fun facts about me  
-  Posts  
-  contact  
+  Fun facts about me 
+  Projects in Github 
+  Posts
+  Contact  
