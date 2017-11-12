@@ -5,7 +5,7 @@ author: "Napassorn Lerdsudwichai"
 categories: resources
 tags: [resources]
 image:
-  feature: cuba-1.jpg
+  feature: tic-tac-toe.jpg
 ---
 
 # [Tic-Tac-Toe-Analyzer](https://github.com/napassornl/Tic-Tac-Toe-Analyzer) 
@@ -25,11 +25,11 @@ xoxo#xxox
 
 represents the board:  
 
-  x | o | x  
+  x    |   o   |   x      
   
-  o |   | x   
+  o    |       |   x   
   
-  x | o | x  
+  x    |   o   |   x  
 
 # Output
 The program should classify the board as one of the following:  
@@ -52,3 +52,5 @@ xox#x#xox i
 
 # Rules of Tic Tac Toe
 Player x and player o alternately place their symbols on a 3x3 board, starting with x. The first player to get three symbols in a row wins, and the game is over. If all nine squares are full and no player has three symbols in a row, the game ends in a tie.
+
+[Photo Credits](https://laymancamerageek.com/using-the-rule-of-thirds)
