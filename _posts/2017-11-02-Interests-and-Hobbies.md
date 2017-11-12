@@ -6,6 +6,7 @@ categories: facts
 tags: [sample]
 image:
   feature: bokeh.jpg
+  creditlink: http://www.neoisgreat.com/culture.htm
 ---
 
 1. **Music**:  
