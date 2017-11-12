@@ -8,7 +8,7 @@ image:
   feature: city-4.jpg
 ---
 
-# [Web-Blocker](https://github.com/napassornl/Web-Blocker)
+# [Website Blocker](https://github.com/napassornl/Web-Blocker)
 Blocks websites to prevent PROCRASTINATION! (i.e Facebook, Youtube, etc.)
 
 In the program, you can specify the time range you want to block those websites.   
