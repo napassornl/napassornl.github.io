@@ -3,7 +3,7 @@ layout: post
 title: "What is Dysphagia?"
 author: "Napassorn"
 categories: sample
-tags: [sample]
+tags: [resources]
 image:
   feature: cuba-1.jpg
 ---
