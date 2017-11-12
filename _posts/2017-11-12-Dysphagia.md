@@ -3,9 +3,10 @@ layout: post
 title: "Imagine Dying from Dysphagia"
 author: "Napassorn"
 categories: sample, resources
-tags: 
+tags: [resources]
 image:
   feature: head-neck-x-ray.jpg
+  creditlink: https://www.medicalnewstoday.com/articles/177473.php
 ---
 
 Ever had trouble swallowing? Probably not. This conditions only affects 1 out of 17 people. But as you older, the chances become higher. 
@@ -26,4 +27,3 @@ See how our client is manufacturing the world's first 3D flexible endoscope here
 
 See how my senior project team are creating the software application the works with the 3D endoscope to compute quantifiable results like described above [here]({{ site.github.url }}{% post_url 2017-11-12-Senior-Project%}).
 
-[Photo Credits](https://www.medicalnewstoday.com/articles/177473.php)
