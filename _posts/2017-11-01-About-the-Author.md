@@ -8,6 +8,6 @@ image:
   feature: Joan-Edgar-Booth-Theatre-Boston-University-Production-Performing-Arts-Center-820-Commonwealth-Avenue-Fenway.jpg
 ---
 
-Biomedical engineer turned pre-med turned R&D engineer turned Computer and Biomedical engineer (double major). 
+I am in my last year at Boston University and will be graduating with a B.S. Double major in Computer Engineering and Biomedical Engineering. See my [bio]({{ site.github.url }}{% misc_url about %})
 
 [Photo Credits](http://www.bldup.com/projects/joan-edgar-booth-theatre)
