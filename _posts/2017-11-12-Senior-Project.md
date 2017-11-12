@@ -6,7 +6,6 @@ categories: resources
 tags: [resources]
 image:
   feature: flexible-endoscope.jpg
-  creditlink: https://www.voicedoctor.net/diagnosis/voice/anatomy
 ---
 
 # [Software Application for 3D Endoscope](https://github.com/Larnx)
@@ -54,4 +53,5 @@ The back end is written in C++ and utilizes the [OpenCV Library](https://opencv.
    To calculate volume, we would have to assign some coordinate system and do some math.
    
 Follow us on our project update! (insert link)
+[Photo Credits](https://www.voicedoctor.net/diagnosis/voice/anatomy)
    
