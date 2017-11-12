@@ -36,15 +36,15 @@ Here is an example file (called a tileset) with 2 5x5 tiles:
 *....  
 **...  
 
-The tiles represented are
-*  
-**  
-*  
-*  
-
-**  
-*  
-**      
+The tiles represented are:  
+*    
+**    
+*    
+*    
+  
+**    
+*    
+**        
 
 Note: Tiles can be picked up and flipped over. The cells must be connected side-to-side,
 not on a corner. Think of them as rigid, flat pieces of colored plastic (since that
