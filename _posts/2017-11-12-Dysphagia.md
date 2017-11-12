@@ -26,3 +26,4 @@ See how our client is manufacturing the world's first 3D flexible endoscope here
 
 See how my senior project team are creating the software application the works with the 3D endoscope to compute quantifiable results like described above [here]({{ site.github.url }}{% post_url 2017-11-12-Senior-Project%}).
 
+[Photo Credits](https://www.medicalnewstoday.com/articles/177473.php)
