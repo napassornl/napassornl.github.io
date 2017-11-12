@@ -3,4 +3,11 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+If you love coding just as much as I do or just want to talk about Thailand, feel free to connect with me!
+[Github](https://https://github.com/napassornl)
+[LinkedIn](https://www.linkedin.com/in/napassornlerdsudwichai/)
+[Facebook](https://www.facebook.com/napassorn1995)
+[Instagram](https://instagram.com/napassor.n)
+
+
+This website is based from the [Millennial theme](https://lenpaul.github.io/Millennial/), which is an open source software distributed under the [MIT License](http://choosealicense.com/licenses/mit/).
