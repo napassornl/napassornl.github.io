@@ -5,7 +5,7 @@ author: "Napassorn Lerdsudwichai"
 categories: facts, sample
 tags: [sample]
 image:
-  feature: arctic-2.jpg
+  feature: Joan-Edgar-Booth-Theatre-Boston-University-Production-Performing-Arts-Center-820-Commonwealth-Avenue-Fenway.jpg
 ---
 
 Biomedical engineer turned pre-med turned R&D engineer turned Computer and Biomedical engineer (double major). 
