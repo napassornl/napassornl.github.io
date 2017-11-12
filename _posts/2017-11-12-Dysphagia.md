@@ -11,7 +11,7 @@ image:
 Ever had trouble swallowing? Probably not. This conditions only affects 1 out of 17 people. But as you older, the chances become higher. 
 
 ## What is Dysphagia?
-Dysphagia or trouble swallowing might seem as a trvial medical issue. But despite procedural diagnosis and consistent monitoring using a  flexible endoscope, more than 60,000 adults in the US die per year. Any one of us can die from this. It can be me; it can be you.  
+Dysphagia or trouble swallowing might seem as a trivial medical issue. But despite procedural diagnosis and consistent monitoring using a  flexible endoscope, more than 60,000 adults in the US die per year. Any one of us can die from this. It can be me; it can be you.  
 
 Any condition that causes weakness or damage to the muscles and nerves used for swallowing may lead to dysphagia. This includes diseases such as Parkinson's, throat, head and neck cancer, side effects from head injuries or stroke, or even just getting old. These conditions inhibit proper neuro-muscular movement and/or control during the swallowing process. As a result, in these patients, food and liquid residue is left over in the throat after swallowing. Such residue can cause a reduction in quality of life, a need to change what and how people eat (in turn causing weight loss, dehydration), and even pneumonia if the residue falls into the airways into the lungs.
 
