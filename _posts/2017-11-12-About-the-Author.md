@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Napassorn Lerdsudwichai"
-categories: facts
+categories: facts, sample
 tags: [sample]
 image:
   feature: arctic-2.jpg
