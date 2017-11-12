@@ -11,7 +11,7 @@ image:
 # [Website Scraping](https://github.com/napassornl/Web-Scraping)
 This is a Python program that goes through HTML to extract data from websites.
 
-## Web Scraping means...
+### Web Scraping means...
 Extracting information as text from web pages and putting them in a well-structured tabular format.  
 Use python library: BeautifulSoup and pandas
 
