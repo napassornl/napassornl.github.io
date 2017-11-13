@@ -2,8 +2,8 @@
 layout: post
 title: "Introducing Me"
 author: "Napassorn Lerdsudwichai"
-categories: facts, sample
-tags: [sample]
+categories: sample
+tags: [facts]
 image:
   feature: Joan-Edgar-Booth-Theatre-Boston-University-Production-Performing-Arts-Center-820-Commonwealth-Avenue-Fenway.jpg
 ---
