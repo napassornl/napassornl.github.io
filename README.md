@@ -1,8 +1,9 @@
 # Napassorn Lerdsudwichai's website
 
 ## Directory Structure
-Homepage    
-  Fun facts about me   
+Homepage      
   Projects in Github   
-  Posts  
+  Blog Posts 
+  Hobbies and Interests
+  About Me
   Contact    
