@@ -9,6 +9,8 @@ and Biomedical Engineering at Boston University. I will be graduating in May 201
 disqus:
   comments: false
   disqus_shortname: 'millennial-3'
+  
+google-ID: 'UA-109622369-1'
 
 menu:
 - {name: 'Projects', folder: 'pages', file: 'resources.html'}
