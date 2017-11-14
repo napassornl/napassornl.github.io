@@ -2,8 +2,8 @@
 
 ## Directory Structure
 Homepage      
-  Projects in Github       
-  Blog Posts   
-  Hobbies and Interests  
-  About Me  
-  Contact     
+> Projects in Github       
+> Blog Posts   
+> Hobbies and Interests  
+> About Me  
+> Contact     
