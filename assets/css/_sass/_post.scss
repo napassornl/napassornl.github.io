@@ -55,6 +55,7 @@
 }
 .sharing-icons a {
   padding-right: 10px;
+  color: $brand-color;	
 }
 
 /*
@@ -85,6 +86,7 @@
 .related-title {
   float: right;
   padding-bottom: .5rem;
+  color: $brand-color;
 }
 @media (max-width: $container-width) {
   .related-thumbnail{
