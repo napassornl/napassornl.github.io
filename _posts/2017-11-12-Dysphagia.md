@@ -26,6 +26,6 @@ Luckily, my senior project team is teaming up with a research assistant professo
 
 See how our client is manufacturing the world's first 3D flexible endoscope here. (Insert link)
 
-See how my senior project team are creating the software application the works with the 3D endoscope to compute quantifiable results like described above [here]({{ site.github.url }}{% post_url 2017-11-12-Senior-Project %}).
+See how my senior project team are creating the software application the works with the 3D endoscope to compute quantifiable results like described above [here]({{ site.github.url }}{% post_url 2017-11-14-Senior-Project %}).
 
 [Photo Credits](https://www.medicalnewstoday.com/articles/177473.php)
