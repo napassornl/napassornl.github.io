@@ -8,7 +8,7 @@ image:
   feature: head-and-neck-x-ray.jpg
 ---
 
-Ever had trouble swallowing? Probably not. This conditions only affects 1 out of 17 people. But as you older, the chances become higher. 
+Ever had trouble swallowing? Probably not. This conditions only affects 1 out of 17 people. But as you get older, the chances become higher. 
 
 ## What is Dysphagia?
 Dysphagia or trouble swallowing might seem as a trivial medical issue. But despite procedural diagnosis and consistent monitoring using a  flexible endoscope, more than 60,000 adults in the US die per year. Any one of us can die from this. It can be me; it can be you.  
