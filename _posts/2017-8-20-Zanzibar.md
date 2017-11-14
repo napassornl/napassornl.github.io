@@ -39,9 +39,7 @@ Nungwi is a very long beach. If you keep walking, you get to see the local peopl
 
 ![lady]({{ site.github.url }}/assets/img/Women by the ocean.jpg)
 
-But Nungwi is just too beautiful, so tourism is another popular business here.
-
-![nungwiboat]({{ site.github.url }}/assets/img/boat-nungwi.JPG)
+But Nungwi is just too beautiful, so tourism is another popular business here.  
 
 In fact, Tanzania has many popular tourism destinations. So now, I would like to take you to the mainland, to Mikumi, Tanzania. I got to
 do my first animal safari at Mikumi National Park. Sadly, I didn't see lions, but the other animals are just as amazing!
