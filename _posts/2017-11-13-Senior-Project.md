@@ -13,7 +13,7 @@ image:
 ## Introduction 
 For my senior design project at Boston University, I am working with 2 engineering students to develop a software application LARNX that can read 2D and 3D endoscope images and videos, and quantitatively compute the surface area and volume of residue (from 3D videos only) in the throat and the percentage of the hypopharynx that is covered with residues (from both 2D and 3D videos). If successful, this application coupled with the current 2D and 3D endoscopy technology (insert 3D specs here) will eliminate the subjective ambiguity that clinicians face when assessing and diagnosing [dysphagia]({{ site.github.url }}{% post_url 2017-11-12-Dysphagia %}). This will allow for faster, more-accurate diagnosis, and more-effective treatment, and ultimately it will save lives!   
 
-![alt text](https://github.com/Larnx/Larnx_Back_End/blob/master/logoTC.png)
+![Logo]({{ site.github.url }}/logoTC.png)
 
 ## Deliverables
 We aim that our software tool can:
