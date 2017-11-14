@@ -21,15 +21,14 @@ o represents o
 The first three characters are the top row, the next three the middle row, and the last three are the bottom row. 
 So the line:  
 
-xoxo#xxox    
+xoxo##xox    
 
 represents the board:  
 
-  x    |   o   |   x      
-  
-  o    |       |   x   
-  
-  x    |   o   |   x  
+  x | o | x    
+  --- | --- | ---
+  o |     |     
+  x | o | x  
 
 # Output
 The program should classify the board as one of the following:  
