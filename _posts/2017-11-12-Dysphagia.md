@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Imagine Dying from Dysphagia"
+title: "Dying from Dysphagia"
 author: "Napassorn"
 categories: sample
 tags: [resources]
