@@ -8,15 +8,16 @@ image:
   feature: car.jpg
 ---
 
-# [Car-Collision-Tracker](https://github.com/napassornl/Car-Collision-Tracker)
+[**Car-Collision-Tracker Github**](https://github.com/napassornl/Car-Collision-Tracker)
+
 This is a class assignment to predicting collisions of a large number of objects moving in a two-dimensional space.
 The problem is relevant, for example, to air-traffic control, self-driving cars, or game simulations (asteroids, curling, pool).
 
-## Physical Model
-### Starting Scenario
+# Physical Model
+## Starting Scenario
 My task was to designed C++ Algorithm to anticipate and model car object collisions given starting scenario of object ID, 
 initial location, and velocity coordinates. The vehicles are specified in a file which gives an ID, a location at time t = 0
-(x/y coordinates in meters) and velocity (x/y coordinates, in meters/second).
+(x/y coordinates in meters) and velocity (x/y coordinates, in meters/second).  
 
 Here is an example of the file format:  
 2MU133 -34.94 -69.13 0.468 -0.900  
@@ -29,16 +30,16 @@ Here is an example of the file format:
 4FA522 -18.20 72.32 0.734 -0.990  
 1WR684 31.71 68.89 -0.509 -0.706  
 
-### Motion Model
+## Motion Model  
 The vehicles travel on a two-dimensional surface called the “field”. Each vehicle travels in a straight line at a constant velocity. The direction of travel is the direction of the velocity vector. Each vehicle will continue travelling in this direction forever, unless it collides with another vehicle.
 
-### Collision Model
+## Collision Model
 Two vehicles collide at the moment the distance between them becomes equal to the collision distance. For this problem, the collision distance is defined as 10 meters. When two vehicles collide, they are vaporized and are removed from the field. All other vehicles continue. My task was to discover all collisions, in the order that they occur, and determine the surviving vehicles. Time did not exist before t = 0, so if two vehicles would have collided in the past, we ignore this event. It never happened.
 
-## My Output Format
-The first line should specify how many vehicles there are.
+# My Output Format
+The first line should specify how many vehicles there are.   
 
-Here is the correct output for the input file random10.coordinates:  
+Here is the correct output for the input file random10.coordinates:   
 there are 10 vehicles  
 collision report  
 at 18.0547 8RT773 collided with 0HV350  
