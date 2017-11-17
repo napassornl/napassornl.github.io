@@ -12,11 +12,11 @@ image:
 
 # Program Components
 ## IP packets
-
+When two host are communicating with each other via the Internet, the source host send a message to the destination host through a stack of layers aka. the Protocol Stack.
 ![Alt](https://networklessons.com/wp-content/uploads/2015/07/ip-packet-header-fields.png)
 
-## Whitelist
-A whitelist is a register of items that are granted access to a certain system or protocol. When it is used, all entities are denied access except those included in the whitelist. In our project, the whitelist is a list of IPv4 address objects that stores the IP address and other information such as subnet mask, etc. The IPv4 objects are from the Python ipaddress module. The ipaddress module has a method to generate the IP address from the IPv4 Network.   
+## White List
+A white list is a register of items that are granted access to a certain system or protocol. When it is used, all entities are denied access except those included in the whitelist. In our project, the whitelist is a list of IPv4 address objects that stores the IP address and other information such as subnet mask, etc. The IPv4 objects are from the Python ipaddress module. The ipaddress module has a method to generate the IP address from the IPv4 Network.   
 
 To get more information besides the IP address, I have written a Python script that parses through the raw data packets received from the socket or application-transport interface. Thus, using the struct method, we are able to get and display the information of the IP packet as shown above: 
 
