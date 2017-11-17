@@ -10,4 +10,4 @@ If you love coding just as much as I do or just want to talk about Thailand, fee
 [Instagram](https://instagram.com/napassor.n)  
 
 
-This website is based from the [Millennial theme](https://lenpaul.github.io/Millennial/), which is an open source software distributed under the [MIT License](http://choosealicense.com/licenses/mit/).
+This website is based from the [Millennial theme](https://lenpaul.github.io/Millennial/), which is an open source software distributed under the MIT License.
