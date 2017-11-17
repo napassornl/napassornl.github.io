@@ -10,7 +10,7 @@ image:
 
 [**Network Monitoring Github**](https://github.com/napassornl/Network-Security)
 
-This project aims to enhance user host protection by creating a Python Network Security program to detect/ monitors incoming data packets and block unsecured packets from reaching computer host.
+This project aims to enhance user protection by creating a Python Network Security program to detect and monitors incoming data packets and block unsecured packets from reaching computer host.
 
 # Program Components
 
