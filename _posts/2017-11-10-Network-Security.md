@@ -19,7 +19,7 @@ When two host are communicating with each other via the Internet, the source hos
 
 Specifically, each layer consists of various protocols that determine a system of rules and formats for communicating to relay information across the layer and how to communicate with the two other layers next to it.   
 
-There are 2 models: **TCP/IP Model*** and **OSI Model**  
+There are 2 models: **TCP/IP Model** and **OSI Model**  
 ![Alt](http://www.just2good.co.uk/images/gif/tcpipstack.gif)
 
 The Internet Protocol Suite can follow any model. The OSI model has 7 layers and the TCP/IP model omits the 2 layers from the top. So if we are using the TCP/IP model and we want the function or service that the 2 omitted layers provide (ie. encryption, connection establishments, etc), the application developer has to write the code for it. Sometimes, the lowest layer is divided into two like the OSI model, making the TCP/IP model have 5 layers in total.    
