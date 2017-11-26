@@ -56,7 +56,8 @@ The whitelist program lets the user specify the whitelist in the CIDR (Classless
 
 The network monitor program then opens the text file and makes each element in the file a IPv4 Network which consists of IPv4 address objects. There may be many IPv4 Network objects so they are all stored in an array.  
 
-When our host receives a data packet from the internet, the network monitor program:   
+When our host receives a data packet from the internet, the network monitor program:     
+
 1) Catches the IP packet from the socket,  
 2) Parses the IP header to obtain relevant information including Source IP address, Destination IP address, Transport Protocol, DSCP (Differentiated Services) - delay, throughput, reliability, cost - and Precedence values,  
 3) Checks whether the IP address matches those generated in the whitelist. If there is a match, the packet information is stored in a file and the unsafe packets are stored in another file,
