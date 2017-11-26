@@ -66,7 +66,7 @@ As packets keep coming in, the program records the statistics of packets being a
 
 # Deliverables and Conclusion
 
-This project is still ongoing so stay tune for updates here and in Github[https://github.com/napassornl/Network-Security]!
+This project is still ongoing so stay tune for updates here and in [Github](https://github.com/napassornl/Network-Security)!
 
 
 [Photo Credits](https://blog.equinix.com/blog/2017/08/24/how-to-create-a-security-inspection-zone-at-the-digital-edge/)
