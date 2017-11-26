@@ -56,13 +56,17 @@ The whitelist program lets the user specify the whitelist in the CIDR (Classless
 
 The network monitor program then opens the text file and makes each element in the file a IPv4 Network which consists of IPv4 address objects. There may be many IPv4 Network objects so they are all stored in an array.  
 
-When our host receives a data packet from the internet, the network sniffer program intercepts the packet from the socket and checks whether the IPv4 address matches those generated from the whitelist. If there is a match, the data packet is allowed to proceed otherwise the program blocks the packet and prints an error message.   
+When our host receives a data packet from the internet, the network monitor program:
+1) Catches the IP packet from the socket,  
+2) Parses the IP header to obtain relevant information including Source IP address, Destination IP address, Transport Protocol, DSCP (Differentiated Services) - delay, throughput, reliability, cost - and Precedence values,  
+3) Checks whether the IP address matches those generated in the whitelist. If there is a match, the packet information is stored in a file and the unsafe packets are stored in another file,
+4) Eventually, the program will display the list of unsafe and safe IP packets on the screen and allow the user to do manipulations.    
 
 As packets keep coming in, the program records the statistics of packets being accepted or dropped and then writes them into a file or displays it in the user interface.
 
 # Deliverables and Conclusion
 
-This project is still ongoing so stay tune for updates!
+This project is still ongoing so stay tune for updates here and in Github[https://github.com/napassornl/Network-Security]!
 
 
 [Photo Credits](https://blog.equinix.com/blog/2017/08/24/how-to-create-a-security-inspection-zone-at-the-digital-edge/)
