@@ -11,7 +11,7 @@ image:
 [**Software Application for 3D Endoscope Github**](https://github.com/Larnx)  
 
 # Introduction 
-For my senior design project at Boston University, I am working with 2 engineering students to develop a software application, LARNX, that reads 2D and 3D endoscopic images and videos, and ultimately produces quantitative information such as:   
+For my senior design project at Boston University, I am working with 2 engineering students to develop a Computer Vision software application, LARNX, that reads 2D and 3D endoscopic images and videos, and ultimately produces quantitative information such as:   
 
 **Volume and Surface area of residue objects** in the throat (For 3D videos only)
 
