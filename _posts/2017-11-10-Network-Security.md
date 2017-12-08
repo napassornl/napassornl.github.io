@@ -10,9 +10,9 @@ image:
 
 [**Network Monitoring Github**](https://github.com/napassornl/Network-Security)
 
-This project aims to enhance user protection by creating a Python Network Security program to detect and monitors incoming data packets and block unsecured packets from reaching computer host.
+This is a group project for the Computer Networking class and aims to enhance user protection by creating a Python Network Security program to detect and monitors incoming data packets and flag unsecured packets from reaching computer host.
 
-# Program Components
+# Program Components  
 
 ## Internet Protocol Stack
 When two host are communicating with each other via the Internet, the source host send a message to the destination host through a stack of layers call the Internet Protocol Stack/ Suite. The Internet Protocol Suite provides end-to-end data communication from how to packetize data, how to transmit it, how to route it, and how it is received. Each individual step is done through a layer in the suite.
@@ -51,23 +51,25 @@ A white list is a register of items that are granted access to a certain system 
 
 To get more information besides the IP address, I have written a Python script that parses through the raw data packets received from the socket or application-transport interface. Thus, using the struct method, we are able to get and display the information of the IP packet as shown above: 
 
-# Program Run Down
-The whitelist program lets the user specify the whitelist in the CIDR (Classless Inter-Domain Routing) format and writes the list as a text file to be uploaded when network monitor program is intialized.    
+# Program Run Down  
+The **whitelist.py program** obtains input IP networks from user, in form of CIDR (Classless Inter-Domain Routing) blocks, to generate a whitelist for network monitoring. After receiving these inputs, it checks that each address represents a valid network. If it does, the program writes the text value to a file to be loaded from when the **network_monitor.py program** is initialized.  
 
-The network monitor program then opens the text file and makes each element in the file a IPv4 Network which consists of IPv4 address objects. There may be many IPv4 Network objects so they are all stored in an array.  
+The user may specify a custom whitelist file, in order to be able to maintain separate whitelists (for separate networks, or for testing purposes). By default, new valid networks will be appended to the existing whitelist file to avoid overwriting previous list entries.  
 
-When our host receives a data packet from the internet, the network monitor program:     
+Next, the **network_monitor.py program** opens the text file created in the **whitelist.py program** and makes each element in the file a IPv4 Network which consists of IPv4 address objects. There may be many IPv4 Network objects so they are all stored in an array.  
 
-1) Catches the IP packet from the socket,  
-2) Parses the IP header to obtain relevant information including Source IP address, Destination IP address, Transport Protocol, DSCP (Differentiated Services) - delay, throughput, reliability, cost - and Precedence values,  
-3) Checks whether the IP address matches those generated in the whitelist. If there is a match, the packet information is stored in a file and the unsafe packets are stored in another file,
-4) Eventually, the program will display the list of unsafe and safe IP packets on the screen and allow the user to do manipulations.    
+When our host receives a data packet from the internet, the network monitor program:  
 
-As packets keep coming in, the program records the statistics of packets being accepted or dropped and then writes them into a file or displays it in the user interface.
+1) Continuously catches IP packets arriving in the socket,  
+2) Parses the IP headers to obtain relevant information including Source IP address, Destination IP address, Transport Protocol, DSCP (Differentiated Services) - delay, throughput, reliability, cost - and Precedence values,  
+3) Checks whether the IP address matches those generated in the whitelist. If there is a match, the packet information is stored in a file called "SAFE.txt" and the unsafe packets are stored in another file called "UNSAFE.txt",  
+4) The program will also print whether the packets are unsafe or safe on the console.  
+
+The **network_stats.py program** reads in the information from whitelist file, "SAFE.txt", and/or blacklist file, "UNSAFE.txt", created by the **network_monitor.py program**, and prints to the screen depending on user selections for what to display. Specifically, the program prompts the user to enter "W" for whitelist reporting, "B" for blacklist reporting, or "A" for reporting on all.  
 
 # Deliverables and Conclusion
 
-This project is still ongoing so stay tune for updates here and in [Github](https://github.com/napassornl/Network-Security)!
+Chekk out my [Github](https://github.com/napassornl/Network-Security) to try it out! Note: that the **network_monitor.py program** only works with Windows. We experience some issues when running the program on Linux.  
 
 
 [Photo Credits](https://blog.equinix.com/blog/2017/08/24/how-to-create-a-security-inspection-zone-at-the-digital-edge/)
