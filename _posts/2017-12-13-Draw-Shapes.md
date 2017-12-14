@@ -19,13 +19,17 @@ The user draws the shape with two mouse clicks on the white panel. The two mouse
 
 The user can specify the details of each shape by clicking the Settings Button, which will open a dialog box. The user can specify the width and color of the line or border of the rectangle and ellipse. Also, for rectangle and ellipse shapes, the user can adjust the fill color by checking the fill checkbox and choosing a fill color as shown:   
 
+![Alt]({{ site.github.url }}/assets/img/setting.png)
+
 
 # How to Edit and Save
 The menustrip on the top bar of the window allows the user to undo his/her drawing or clear the drawing panel entirely.  
 
 The user can also save his/ her work by selecting the Save tab. The user can save in many formats such as Jpeg, Png, Tiff, and Gif.  
 
-Here is an example of a simple (but not as pretty) drawing from the program:  
+Here is an example of a simple (but not as pretty) drawing saved as a Jpeg file from the program:  
+
+![Alt]({{ site.github.url }}/assets/img/drawing.jpg)
 
 Give it a [try!](https://github.com/napassornl/Draw-Shapes)   
 
