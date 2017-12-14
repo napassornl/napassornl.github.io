@@ -31,7 +31,7 @@ Here is an example of a simple (but not as pretty) drawing saved as a Jpeg file 
 
 ![Alt]({{ site.github.url }}/assets/img/drawing.jpg)
 
-Give it a [try!](https://github.com/napassornl/Draw-Shapes)   
+Feel free to download the executable file [here](https://github.com/napassornl/Draw-Shapes)  and give it a try!  
 
 [Photo Credits](http://hdqwalls.com/wallpapers/abstract-colorful-shape-lines.jpg)
 
