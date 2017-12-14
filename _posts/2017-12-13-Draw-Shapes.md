@@ -5,10 +5,10 @@ author: "Napassorn Lerdsudwichai"
 categories: resources
 tags: [resources]
 image:
-  feature: 
+  feature: abstract.jpg
 ---
 
-Download the Program here.
+Download the Program [here.](https://github.com/napassornl/Draw-Shapes)  
 
 Note: The program was created as a Windows Form Application using C#.NET and so can only be used on a Windows OS.
 
@@ -27,6 +27,8 @@ The user can also save his/ her work by selecting the Save tab. The user can sav
 
 Here is an example of a simple (but not as pretty) drawing from the program:  
 
-Give it a try!  
+Give it a [try!](https://github.com/napassornl/Draw-Shapes)   
+
+[Photo Credits](http://hdqwalls.com/wallpapers/abstract-colorful-shape-lines.jpg)
 
 
