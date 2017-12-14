@@ -19,7 +19,7 @@ The user draws the shape with two mouse clicks on the white panel. The two mouse
 
 The user can specify the details of each shape by clicking the Settings Button, which will open a dialog box. The user can specify the width and color of the line or border of the rectangle and ellipse. Also, for rectangle and ellipse shapes, the user can adjust the fill color by checking the fill checkbox and choosing a fill color as shown:   
 
-![Alt]({{ site.github.url }}/assets/img/setting.png)
+![Alt]({{ site.github.url }}/assets/img/setting.PNG)
 
 
 # How to Edit and Save
