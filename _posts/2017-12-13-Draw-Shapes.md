@@ -12,6 +12,9 @@ Download the Program [here.](https://github.com/napassornl/Draw-Shapes)
 
 Note: The program was created as a Windows Form Application using C#.NET and so can only be used on a Windows OS.
 
+# High Level Program Description
+In this Windows Application form, I used object-oriented programming for the different shapes that the user can draw on the panel of the form. Specifically, each shape (line, rectangle, and ellipse) is inherited from a base class that I created called myGraphics. The base class myGraphics has common data fields for all shapes (e.g. location coordinates from the mouse clicks). To draw on the panel, a paint event has to be called in the form. The myGraphics class has a Draw method that is called by the paint event of the main form. I then utilized polymorphism by overriding the base Draw method to each of the shape classes so that it customizes the Draw method for each shape.  
+
 # How to Draw  
 This is a simple drawing program that allows users to draw lines, rectangles, and/or ellipses. The user chooses what shape to draw in the draw panel.  
 
@@ -31,7 +34,7 @@ Here is an example of a simple (but not as pretty) drawing saved as a Jpeg file 
 
 ![Alt]({{ site.github.url }}/assets/img/drawing.jpg)
 
-Feel free to download the executable file [here](https://github.com/napassornl/Draw-Shapes)  and give it a try!  
+Feel free to download the executable file [here](https://github.com/napassornl/Draw-Shapes)  and give it a try! 
 
 [Photo Credits](http://hdqwalls.com/wallpapers/abstract-colorful-shape-lines.jpg)
 
