@@ -14,8 +14,8 @@ Music is my life! I enjoy all genres from rock-n-roll 80s to k-pop! I love music
 
 Here's what I have been listening to lately:  
 
-![BTS](https://www.youtube.com/watch?v=kTlv5_Bs8aw&list=PL6Ri1UOk51t6SCUALmklRE_7hvtyoOZJM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTlv5_Bs8aw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTlv5_Bs8aw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fuWTcmjnEGY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 [Photo Credits](http://www.neoisgreat.com/culture.htm)
