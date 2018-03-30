@@ -53,4 +53,4 @@ xox#x#xox i
 # Rules of Tic Tac Toe
 Player x and player o alternately place their symbols on a 3x3 board, starting with x. The first player to get three symbols in a row wins, and the game is over. If all nine squares are full and no player has three symbols in a row, the game ends in a tie.
 
-[Photo Credits](https://laymancamerageek.com/using-the-rule-of-thirds)
+[Photo Credits](https://www.amazon.com/Piece-Glow-Dark-Tic-Game/dp/B00Z1NHJF0)
