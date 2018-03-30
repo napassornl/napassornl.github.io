@@ -1,5 +1,5 @@
-title:  "Napassorn"
-tagline: "naps"
+title:  "Napassorn Lerdsudwichai"
+tagline: "npl"
 description:
 
 # Authors documented under _data
@@ -16,7 +16,6 @@ menu:
 - {name: 'Posts', folder: 'pages', file: 'posts.html'}
 - {name: 'Facts', folder: 'pages', file: 'facts.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 social:
 - {icon: 'github', link: 'https://github.com/napassornl'}
