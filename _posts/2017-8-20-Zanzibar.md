@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zanzibar Memoirs"
+title: "My Zanzibar Trip"
 author: "Napassorn Lerdsudwichai"
 categories: sample
 tags: [sample]
