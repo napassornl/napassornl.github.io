@@ -8,8 +8,6 @@ image:
   feature: bokeh.jpg
 ---
 
-**Music**:  
-
 Music is my life! I enjoy all genres from rock-n-roll 80s to k-pop! I love music that has meaning and gives me motivation.  
 
 Here's what I have been listening to lately:  
