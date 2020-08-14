@@ -2,7 +2,7 @@
 layout: post
 title: "Music Recommendations"
 author: "Napassorn Lerdsudwichai"
-categories: posts
+categories: sample
 tags: [sample]
 image:	
   feature: shibuya-crosswalk.png
