@@ -13,8 +13,7 @@ google-ID: 'UA-109622369-1'
 
 menu:
 - {name: 'Projects', folder: 'pages', file: 'resources.html'}
-- {name: 'Posts', folder: 'pages', file: 'posts.html'}
-- {name: 'Facts', folder: 'pages', file: 'facts.html'}
+- {name: 'Blogs', folder: 'pages', file: 'posts.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 social:
