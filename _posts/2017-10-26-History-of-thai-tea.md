@@ -2,7 +2,7 @@
 layout: post
 title: "King Bhumibol Aduleyadej: My Inspiration To Improve Myself So That I Can Improve My Country"
 author: "Napassorn"
-categories: facts
+categories: posts
 tags: [sample]
 image:
   feature: meru-pyre.jpg
