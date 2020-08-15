@@ -3,10 +3,11 @@ layout: post
 title: "Reproductive Health in Thailand"
 author: "Napassorn"
 categories: sample
-tags: [resources]
+tags: [sample]
 image:
   feature: condom.jpg
 ---
+
 Forty years ago, Thailand’s welfare was strikingly different. I was born when Thailand was quite developed. The Total Fertility Rate (TFR) was less than 2, which is good in maintaining population size, but in 1974, the average TFR was 7 children per family. I actually have evidence as my mother had 3 siblings and my father had 12! But it was because of this man who had an idea to make the MDGs (Millennium Development Goals) work and raise the standard of living in Thailand. This man is Mechai Viravaidya. Mechai Viravaidya – aka the “Mr. Condom” – is the founder and chair of the Population and Community Development Association (PDA). He is a leader in the field of public health, education and community development. Since 1974, Mr. Mechai has initiated community-based family planning services, innovative poverty reduction and rural education programs, large-scale rural development and environmental programs, as well as revolutionary HIV/AIDS prevention activities throughout Southeast Asia.
 
 In Thailand, 40 years ago, Viravaidya initiated a family-planning program to combat poverty. In doing so, he aimed for birth control and reduction population growth, which was was 3.3% at that time. He and his team started with having doctors prescribe birth control pills, but this covered only 20% of the country. The rest were not in touch with any medical personnel, so Viravaidya engaged in the communities with the same tactic as large companies like Coca-Cola did to supply pills and condoms to the community. He also reached out to the religious community via monks, to show that Buddhism supports the use condoms and contraceptives. This would ensure people living in rural areas that using condoms was not a sin. Moreover, he involved teachers to teach young children about family planning. In return, the children taught their parents about family planning. In 1975, he introduced a microcredit program as part of the Village Development Bank run by villagers. The policy was to give out loans to women who are not pregnant in order to serve as a incentive to use contraceptives. With consistent promotion of maternal health activities, Viravaidya managed to reduced the TFR from 7 children to 1.5 and the population growth from 3.3 to 0.5!
