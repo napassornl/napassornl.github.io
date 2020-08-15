@@ -18,7 +18,7 @@ This assessment shows that the mHealth for Safer Deliveries program is a success
 *This blog was also published in The Partnership of Global Health Technologies [website](https://www.bu.edu/globalhealthtechnologies/2016/08/30/a-mobile-phone-intervention-on-maternal-care-in-zanzibar/).*   
 
 References:  
-1. Revolutionary Government of Zanzibar. 2013 Zanzibar Annual Health Bulletin. Zanzibar: RGOZ; 2014.  
-2. National Bureau of Statistics (NBS) [Tanzania] and ICF Macro. Tanzania Demo- graphic and Health Survey. Dar es Salaam, Tanzania: NBS and ICF Macro; 2010.  
-3. “Staff – D-tree International.” D-tree International. N.p., n.d. Web. 30 Aug. 2016.  
-4. Revolutionary Government of Zanzibar. 2012 Zanzibar Annual Health Bulletin. Zanzibar: RGOZ; 2013.  
+ 1. Revolutionary Government of Zanzibar. 2013 Zanzibar Annual Health Bulletin. Zanzibar: RGOZ; 2014.  
+ 2. National Bureau of Statistics (NBS) [Tanzania] and ICF Macro. Tanzania Demo- graphic and Health Survey. Dar es Salaam, Tanzania: NBS and ICF Macro; 2010.  
+ 3. “Staff – D-tree International.” D-tree International. N.p., n.d. Web. 30 Aug. 2016.  
+ 4. Revolutionary Government of Zanzibar. 2012 Zanzibar Annual Health Bulletin. Zanzibar: RGOZ; 2013.  
