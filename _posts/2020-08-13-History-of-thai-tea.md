@@ -7,7 +7,7 @@ tags: [sample]
 image:
   feature: tea.png
 ---
-From having its origins from leaves in China to now being distributed as loose leaves and tea bags with a variety of flavors, even I always wondered: *Why is Thai tea orange???*
+Tea: from having its origins from leaves in China to now being distributed as loose leaves and tea bags with a variety of flavors. Almost every country has their own version of tea, which made me always wonder: *Why is Thai tea orange???*
 
 I decided to put some of my quarantine time into good use and do a bit of research on how my country's tea came to be and how our tea ended up being orange. I will now be *spilling the tea* (sorry, you knew this pun was coming).
 
