@@ -7,7 +7,7 @@ title: About Me
 I was born in Thailand. I came to study in the U.S. and got my Bachelor of Science degree in Computer Engineering & Biomedical Engineering from Boston University I'm currently a software engineer. I'm a scientist at heart. I'm Napassorn.
 
 <div style="text-align:center">
-<iframe src="{{ site.github.url }}/assets/img/CV_Lerdsudwichai.pdf" width="720" height="960" style="align:center"></iframe>
+<iframe src="{{ site.github.url }}/assets/img/CV_Lerdsudwichai.pdf" width="720" height="960"></iframe>
 </div>
 
 Connect with me!  
