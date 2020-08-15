@@ -1,11 +1,33 @@
 ---
 layout: post
-title: "King Bhumibol Aduleyadej: My Inspiration To Improve Myself So That I Can Improve My Country"
+title: "A Brief History of Thai Tea"
 author: "Napassorn"
-categories: posts
+categories: sample
 tags: [sample]
 image:
-  feature: meru-pyre.jpg
+  feature: tea.png
 ---
+From having its origins from leaves in China to now being distributed as loose leaves and tea bags with a variety of flavors, even I always wondered: *Why is Thai tea orange???*
 
-[Photo Credits](https://www.facebook.com/photo.php?fbid=1861532420527068&set=ms.c.eJxFz9sNBDEIA8COTpg3~%3BTd2CmzC78h2CNJhwsqSTkr4oQGoQElaXGCQcSBrEw31KmpdkQcylXgV6VcMm9BJ~_AWjBqeFPqzkA1Y~_CfK84OcICehCJ3QTMnD~%3BwhZnVNLfKGa0FnpUbEengj~_tlT1l.bps.a.1861531100527200.1073741909.100000109843171&type=3&theater)
+I decided to put some of my quarantine time into good use and do a bit of research on how my country's tea came to be and how our tea ended up being orange. I will now be *spilling the tea* (sorry, you knew this pun was coming).
+
+![sherlock-tea]({{ site.github.url }}/assets/img/sherlock-tea.jpg)
+
+*The Beginning*
+About 500 years ago in the reign of King Narai The Great of Ayutthaya, the old capital of Thailand, - or, Siam, to be more accurate, - we did a lot of business with China and got tea leaves through trade. The first recordings of tea drinking in the Kingdom of Siam tell us that people would drink tea with sugar. Unlike today's way of putting sugar in their tea, Siam tea drinkers would put sugar in their mouths first and then follow it with hot tea. However, tea was not that popular. It was only drunk in religious and political occasions.
+
+*Got Milk*
+Fast forward over a century when our capital is now Bangkok, we later traded with India too and started to drink our tea with milk. In 1893, we had our first Thai brand of condensed milk, further endorsing the tea-milk combination. But we were still drink it hot. And Thailand is VERY VERY HOT. Sadly, it wouldn't be for another 10 years later when we established our first ice business and drank iced tea.
+
+*The Thai Brand*
+By the end of King Rama VI's reign - around the 1920s – we opened a lot of cafes in the city which introduced the people and foreign tradesmen to our tea more. It was not until 1945 when the first Thai tea brand was born – Cha Drah Muer (currently, it selling on Amazon btw). The tea is a version of Ceylon tea - a type of black tea – with added aromas and added food coloring - hence, the orange. Because it's Thai-made, it's cheap and so all the local cafe's can afford them, increasing its popularity even more. Even today, Thai tea can be found in every cafe across the country. It is a popular street food. Today's Thai tea has a lot of sugar and milk in them. It is also topped with condensed milk and served iced (for obvious reasons). If you're not into your tea being milky, we also use Thai tea to make lemon iced tea or just regular Thai black tea. Though they both still have sugar. We love our sugar. Lemon iced tea was actually my childhood favorite drink. After a long day of school, nothing was more refreshing than having a bottle of lemon iced tea.
+
+![sherlock-tea]({{ site.github.url }}/assets/img/thai-tea.jpg)
+
+*Tea Fusion*
+We even combined other countries' teas with our own. For example, with Taiwan's bubble tea we have Thai bubble tea or boba tea. Instead of boba, we even added grass jelly too. Furthermore, we adapted the process of making Malaysia's teh tarik or pulled tea - tea made from a process of pouring it back and forth briskly from one jug into another many times - into making Thai tea. As a result, Thai tea is more foamy. It also is fun to watch a orange beverage getting poured around live. This is very popular drink in South Thailand.  
+
+*Conclusion*
+This concludes what I found out about Thai tea. Its history is not a long one compared to that of China or Japan. Thai tea was a result of international trade and making a foreign commodity our own. But it happened to have become become a significant part of our culture and one of the most well-knowed foods of Thailand.  Hopefully, this post somewhat satifies your curiosity of Thai tea or even if you weren't curious in the first place, I hope you've learned something about part of my Thai culture.
+
+[Photo Credits](https://www.reddit.com/r/Sherlock/comments/5myy96/sherlocks_tea_set/)
