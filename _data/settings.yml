@@ -12,8 +12,8 @@ disqus:
 google-ID: 'UA-109622369-1'
 
 menu:
-- {name: 'Projects', folder: 'pages', file: 'resources.html'}
 - {name: 'Blogs', folder: 'pages', file: 'posts.html'}
+- {name: 'Projects', folder: 'pages', file: 'resources.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 social:
