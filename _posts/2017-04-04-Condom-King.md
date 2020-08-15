@@ -16,4 +16,4 @@ Then, as AIDS became an epidemic, he fought against that too. In particular, AID
 
 Learn more about the “Mr. Condom” in his [TED Talk](https://www.ted.com/talks/mechai_viravaidya_how_mr_condom_made_thailand_a_better_place?language=en)
 
-*This blog was also published in [The Partnership of Global Health Technologies](https://www.bu.edu/globalhealthtechnologies/2017/04/04/mechai-viravaidya-reproductive-health-in-thailand/) website.*
+*This blog was also published in The Partnership of Global Health Technologies [website](https://www.bu.edu/globalhealthtechnologies/2017/04/04/mechai-viravaidya-reproductive-health-in-thailand/) .*
