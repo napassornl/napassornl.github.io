@@ -17,7 +17,7 @@ menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 social:
-- {icon: 'github', link: 'https://github.com/napassornl'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCVx7MO0W8o9ZmsivUuFKC0A'}
 - {icon: 'linkedin-square', link: 'https://www.linkedin.com/in/napassornlerdsudwichai/'}
 - {icon: 'envelope', link: 'mailto:napassorn@gmail.com'}
 
