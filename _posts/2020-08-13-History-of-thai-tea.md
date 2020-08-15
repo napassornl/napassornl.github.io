@@ -7,7 +7,7 @@ tags: [sample]
 image:
   feature: tea.png
 ---
-Tea: from having its origins from leaves in China to now being distributed as loose leaves and tea bags with a variety of flavors. Almost every country has their own version of tea, which made me always wonder: *Why is Thai tea orange???*
+Tea: from having its origins from leaves in China to now being distributed as loose leaves and tea bags with a variety of flavors. Almost every country has their own version of tea, which made me always wonder: *Why is Thai tea orange?*
 
 I decided to put some of my quarantine time into good use and do a bit of research on how my country's tea came to be and how our tea ended up being orange. I will now be *spilling the tea* (sorry, you knew this pun was coming).
 
@@ -19,7 +19,7 @@ About 500 years ago in the reign of King Narai The Great of Ayutthaya, the old c
 
 *Got Milk*
 
-Fast forward over a century when our capital is now Bangkok, we later traded with India too and started to drink our tea with milk. In 1893, we had our first Thai brand of condensed milk, further endorsing the tea-milk combination. But we were still drink it hot. And Thailand is VERY VERY HOT. Sadly, it wouldn't be for another 10 years later when we established our first ice business and drank iced tea.
+Fast forward over a century when our capital is now Bangkok, we later traded with India and started to drink our tea with milk. In 1893, we had our first Thai brand of condensed milk, further endorsing the tea-milk combination. But we were still drinking it hot. And Thailand is VERY VERY HOT. Sadly, it wouldn't be for another 10 years later when we established our first ice business and drank iced tea.
 
 *The Thai Brand*
 
