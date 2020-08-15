@@ -2,6 +2,6 @@
 
 ## Directory Structure
 Homepage 
-> Blog Posts 
+> Blog Posts  
 > Projects  
 > About Me      
